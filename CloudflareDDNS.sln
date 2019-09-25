@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudflareDDNS", "CloudflareDDNS\CloudflareDDNS.csproj", "{A1FB48B3-E4B7-4EE5-8B28-D06D766B1EE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9AC2EBA-5449-42B8-B599-9206DD60744E}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1FB48B3-E4B7-4EE5-8B28-D06D766B1EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FB48B3-E4B7-4EE5-8B28-D06D766B1EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FB48B3-E4B7-4EE5-8B28-D06D766B1EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FB48B3-E4B7-4EE5-8B28-D06D766B1EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0D616C0-00B2-459A-9820-D9906602CFB2}
+	EndGlobalSection
+EndGlobal
